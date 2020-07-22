@@ -8,4 +8,4 @@ class Artist
  
 end
 
-Artist.new
+drake = Artist.new
